@@ -1,0 +1,6 @@
+{
+  "name": "SENSE — Multibrand Fashion E-Commerce",
+  "description": "Tienda multimarca de moda en Argentina. Descubrí las colecciones de Nike, Adidas, Puma, Levi's, New Balance y Converse en SENSE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
